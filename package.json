@@ -1,0 +1,13 @@
+{
+  "name": "hacker-case",
+  "version": "1.0.0",
+  "private": "true",
+  "author": "Christophe Porteneuve <christophe@delicious-insights.com>",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
