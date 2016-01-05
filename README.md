@@ -7,7 +7,7 @@ It serves as a hooking point for a variety of third-party services:
 
   * [Travis CI](https://travis-ci.org/) for continuous integration and deployment
   * [CodeClimate](https://codeclimate.com/) for quality metrics
-  * [Coveralls](https://coveralls.io/) for test coverage
+  * [Codecov](https://codecov.io/) for test coverage
   * [Inch CI](https://inch-ci.org/) for documentation coverage
   * [Greenkeeper](http://greenkeeper.io/) for dependency monitoring
 
