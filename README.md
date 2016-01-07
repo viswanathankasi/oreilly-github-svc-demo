@@ -9,6 +9,7 @@ It serves as a hooking point for a variety of third-party services:
   * [CodeClimate](https://codeclimate.com/) for quality metrics
   * [Codecov](https://codecov.io/) for test coverage
   * [Inch CI](https://inch-ci.org/) for documentation coverage
+  * [Gitter](https://gitter.im/) for chat
   * [Greenkeeper](http://greenkeeper.io/) for dependency monitoring
 
 Usage
